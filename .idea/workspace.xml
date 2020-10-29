@@ -117,26 +117,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2564" y="116" key="CommitChangelistDialog2" timestamp="1603933167846">
+    <state x="2564" y="116" key="CommitChangelistDialog2" timestamp="1603933187939">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2564" y="116" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933167846" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1603933095364">
+    <state x="2564" y="116" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933187939" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1603933192669">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933095364" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1603933095363">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933192669" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1603933192669">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933095363" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1603933095363">
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933192669" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1603933192669">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933095363" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1603933095364">
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933192669" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1603933192669">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933095364" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933192669" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1603665845044">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -153,9 +153,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603665845044" />
-    <state x="2705" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603933175522">
+    <state x="2705" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603933202103">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2705" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933175522" />
+    <state x="2705" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603933202103" />
   </component>
 </project>
